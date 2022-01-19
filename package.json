@@ -1,5 +1,5 @@
 {
-  "name": "keyboard-license-plate",
+  "name": "keyboard-license-plate-fork",
   "version": "0.1.5",
   "description": "A license plate number analog keyboard that supports vue",
   "keyword": [
@@ -12,10 +12,10 @@
   "main": "dist/keyboard-license-plate.common.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dongj0316/keyboard-license-plate"
+    "url": "https://github.com/ibca/keyboard-license-plate"
   },
   "license": "MIT",
-  "author": "dj1811",
+  "author": "ibca",
   "scripts": {
     "serve": "vue-cli-service serve",
     "lint": "vue-cli-service lint",

@@ -1,4 +1,4 @@
-# keyboard-license-plate
+# keyboard-license-plate-fork
 vue车牌号模拟键盘
 
 [online demo](https://dongj0316.github.io/keyboard-license-plate/demo/)
@@ -8,7 +8,7 @@ vue车牌号模拟键盘
 ## Use
 
 ```bash
-$ npm install keyboard-license-plate -S
+$ yarn add keyboard-license-plate-fork
 ```
 
 ```js
