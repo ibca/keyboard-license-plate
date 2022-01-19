@@ -1,6 +1,6 @@
 {
   "name": "keyboard-license-plate-fork",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A license plate number analog keyboard that supports vue",
   "keyword": [
     "vue",
